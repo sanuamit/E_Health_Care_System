@@ -1,0 +1,5 @@
+admin,admin123
+doctor1,docpass
+reception,recept2025
+amit,amit@123
+
